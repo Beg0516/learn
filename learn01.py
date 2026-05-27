@@ -3,4 +3,4 @@ def func():
 print('hello')
 print('world')
 print('njew')
-print('wenwen')
+print('666666')
